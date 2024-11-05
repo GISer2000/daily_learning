@@ -1,0 +1,245 @@
+SN,中文简称,英文简称,ISO 2,ISO 3,数字代码,电话区号,域名后缀,备注
+1,阿富汗,Afghanistan,AF,AFG,004,93,.af,the Islamic Republic of Afghanistan
+2,奥兰群岛,Aland Islands,AX,ALA,248,358 18,.ax,ISO 3166-1:2006新增
+3,阿尔巴尼亚,Albania,AL,ALB,008,355,.al,the Republic of Albania
+4,阿尔及利亚,Algeria,DZ,DZA,012,213,.dz,the People's Democratic Republic of Algeria
+5,美属萨摩亚,American Samoa,AS,ASM,016,1 684,.as,
+6,安道尔,Andorra,AD,AND,020,376,.ad,the Principality of Andorra
+7,安哥拉,Angola,AO,AGO,024,244,.ao,the Republic of Angola
+8,安圭拉,Anguilla,AI,AIA,660,1 264,.ai,
+9,南极洲,Antarctica,AQ,ATA,010,6721,.aq,
+10,安提瓜和巴布达,Antigua and Barbuda,AG,ATG,028,1 268,.ag,
+11,阿根廷,Argentina,AR,ARG,032,54,.ar,the Argentine Republic
+12,亚美尼亚,Armenia,AM,ARM,051,374,.am,the Republic of Armenia
+13,阿鲁巴,Aruba,AW,ABW,533,297,.aw,
+14,澳大利亚,Australia,AU,AUS,036,61,.au,
+15,奥地利,Austria,AT,AUT,040,43,.at,the Republic of Austria
+16,阿塞拜疆,Azerbaijan,AZ,AZE,031,994,.az,the Republic of Azerbaijan
+17,巴哈马,Bahamas,BS,BHS,044,1 242,.bs,the Commonwealth of The Bahamas
+18,巴林,Bahrain,BH,BHR,048,973,.bh,the Kingdom of Bahrain
+19,孟加拉国,Bangladesh,BD,BGD,050,880,.bd,the People's Republic of Bangladesh
+20,巴巴多斯,Barbados,BB,BRB,052,1 246,.bb,
+21,白俄罗斯,Belarus,BY,BLR,112,375,.by,the Republic of Belarus
+22,比利时,Belgium,BE,BEL,056,32,.be,the Kingdom of Belgium
+23,伯利兹,Belize,BZ,BLZ,084,501,.bz,
+24,贝宁,Benin,BJ,BEN,204,229,.bj,the Republic of Benin
+25,百慕大,Bermuda,BM,BMU,060,1 441,.bm,
+26,不丹,Bhutan,BT,BTN,064,975,.bt,the Kingdom of Bhutan
+27,玻利维亚,Bolivia,BO,BOL,068,591,.bo,the Republic of Bolivia
+28,波黑,Bosnia and Herzegovina,BA,BIH,070,387,.ba,
+29,博茨瓦纳,Botswana,BW,BWA,072,267,.bw,the Republic of Botswana
+30,布维岛,Bouvet Island,BV,BVT,074,47,.bv,
+31,巴西,Brazil,BR,BRA,076,55,.br,the Federative Republic of Brazil
+32,英属印度洋领地,British Indian Ocean Territory,IO,IOT,086,246,.io,
+33,文莱,Brunei Darussalam,BN,BRN,096,673,.bn,
+34,保加利亚,Bulgaria,BG,BGR,100,359,.bg,the Republic of Bulgaria
+35,布基纳法索,Burkina Faso,BF,BFA,854,226,.bf,
+36,布隆迪,Burundi,BI,BDI,108,257,.bi,the Republic of Burundi
+37,柬埔寨,Cambodia,KH,KHM,116,855,.kh,the Kingdom of Cambodia
+38,喀麦隆,Cameroon,CM,CMR,120,237,.cm,the Republic of Cameroon
+39,加拿大,Canada,CA,CAN,124,1,.ca,
+40,佛得角,Cape Verde,CV,CPV,132,238,.cv,the Republic of Cape Verde
+41,开曼群岛,Cayman Islands,KY,CYM,136,1 345,.ky,
+42,中非,Central African Republic,CF,CAF,140,236,.cf,the Central African Republic
+43,乍得,Chad,TD,TCD,148,235,.td,the Republic of Chad
+44,智利,Chile,CL,CHL,152,56,.cl,the Republic of Chile
+45,中国,China,CN,CHN,156,86,.cn,the People's Republic of China
+46,圣诞岛,Christmas Island,CX,CXR,162,61,.cx,
+47,科科斯（基林）群岛,Cocos (Keeling) Islands,CC,CCK,166,61,.cc,
+48,哥伦比亚,Colombia,CO,COL,170,57,.co,the Republic of Colombia
+49,科摩罗,Comoros,KM,COM,174,269,.km,the Union of the Comoros
+50,刚果（布）,Congo,CG,COG,178,243,.cg,the Republic of the Congo
+51,刚果（金）,Congo,CD,COD,180,242,.cd,the Democratic Republic of the Congo
+52,库克群岛,Cook Islands,CK,COK,184,682,.ck,
+53,哥斯达黎加,Costa Rica,CR,CRI,188,506,.cr,the Republic of Costa Rica
+54,科特迪瓦,Côte d'Ivoire,CI,CIV,384,225,.ci,the Republic of Côte d'Ivoire
+55,克罗地亚,Croatia,HR,HRV,191,385,.hr,the Republic of Croatia
+56,古巴,Cuba,CU,CUB,192,53,.cu,the Republic of Cuba
+57,塞浦路斯,Cyprus,CY,CYP,196,357,.cy,the Republic of Cyprus
+58,捷克,Czech Republic,CZ,CZE,203,420,.cz,the Czech Republic
+59,丹麦,Denmark,DK,DNK,208,45,.dk,the Kingdom of Denmark
+60,吉布提,Djibouti,DJ,DJI,262,253,.dj,the Republic of Djibouti
+61,多米尼克,Dominica,DM,DMA,212,1 767,.dm,the Commonwealth of Dominica
+62,多米尼加,Dominican Republic,DO,DOM,214,1 809/829/849,.do,the Dominican Republic
+63,厄瓜多尔,Ecuador,EC,ECU,218,593,.ec,the Republic of Ecuador
+64,埃及,Egypt,EG,EGY,818,20,.eg,the Arab Republic of Egypt
+65,萨尔瓦多,El Salvador,SV,SLV,222,503,.sv,the Republic of El Salvador
+66,赤道几内亚,Equatorial Guinea,GQ,GNQ,226,240,.gq,the Republic of Equatorial Guinea
+67,厄立特里亚,Eritrea,ER,ERI,232,291,.er,
+68,爱沙尼亚,Estonia,EE,EST,233,372,.ee,the Republic of Estonia
+69,埃塞俄比亚,Ethiopia,ET,ETH,231,251,.et,the Federal Democratic Republic of Ethiopia
+70,福克兰群岛,Falkland Islands,FK,FLK,238,500,.fk,
+71,法罗群岛,Faroe Islands,FO,FRO,234,298,.fo,
+72,斐济,Fiji,FJ,FJI,242,679,.fj,the Republic of the Fiji Islands
+73,芬兰,Finland,FI,FIN,246,358,.fi,the Republic of Finland
+74,法国,France,FR,FRA,250,33,.fr,the French Republic
+75,法属圭亚那,French Guiana,GF,GUF,254,594,.gf,
+76,法属波利尼西亚,French Polynesia,PF,PYF,258,689,.pf,
+77,法属南部领地,French Southern Territories,TF,ATF,260,-,.tf,
+78,加蓬,Gabon,GA,GAB,266,241,.ga,the Gabonese Republic
+79,冈比亚,Gambia,GM,GMB,270,220,.gm,the Republic of The Gambia
+80,格鲁吉亚,Georgia,GE,GEO,268,995,.ge,
+81,德国,Germany,DE,DEU,276,49,.de,he Federal Republic of Germany
+82,加纳,Ghana,GH,GHA,288,233,.gh,the Republic of Ghana
+83,直布罗陀,Gibraltar,GI,GIB,292,350,.gi,
+84,希腊,Greece,GR,GRC,300,30,.gr,the Hellenic Republic
+85,格陵兰,Greenland,GL,GRL,304,299,.gl,
+86,格林纳达,Grenada,GD,GRD,308,1 473,.gd,
+87,瓜德罗普,Guadeloupe,GP,GLP,312,590,.gp,
+88,关岛,Guam,GU,GUM,316,1 671,.gu,
+89,危地马拉,Guatemala,GT,GTM,320,502,.gt,the Republic of Guatemala
+90,格恩西岛,Guernsey,GG,GGY,831,44,.gg,ISO 3166-1:2006新增
+91,几内亚,Guinea,GN,GIN,324,224,.gn,the Republic of Guinea
+92,几内亚比绍,Guinea-Bissau,GW,GNB,624,245,.gw,the Republic of Guinea-Bissau
+93,圭亚那,Guyana,GY,GUY,328,592,.gy,the Republic of Guyana
+94,海地,Haiti,HT,HTI,332,509,.ht,the Republic of Haiti
+95,赫德岛和麦克唐纳岛,Heard Island and McDonald Islands,HM,HMD,334,1 672,.hm,
+96,梵蒂冈,Holy See,VA,VAT,336,379,.va,"ISO 3166.1:2006调整英文名称,代码未变"
+97,洪都拉斯,Honduras,HN,HND,340,504,.hn,the Republic of Honduras
+98,香港,Hong Kong,HK,HKG,344,852,.hk,the Hong Kong Special Administrative Region of China
+99,匈牙利,Hungary,HU,HUN,348,36,.hu,the Republic of Hungary
+100,冰岛,Iceland,IS,ISL,352,354,.is,the Republic of Iceland
+101,印度,India,IN,IND,356,91,.in,the Republic of India
+102,印度尼西亚,Indonesia,ID,IDN,360,62,.id,the Republic of Indonesia
+103,伊朗,Iran,IR,IRN,364,98,.ir,the Islamic Republic of Iran
+104,伊拉克,Iraq,IQ,IRQ,368,964,.iq,the Republic of Iraq
+105,爱尔兰,Ireland,IE,IRL,372,353,.ie,
+106,英国属地曼岛,Isle of Man,IM,IMN,833,44,.im,ISO 3166-1:2006新增
+107,以色列,Israel,IL,ISR,376,972,.il,the State of Israel
+108,意大利,Italy,IT,ITA,380,39,.it,the Republic of Italy
+109,牙买加,Jamaica,JM,JAM,388,1 876,.jm,
+110,日本,Japan,JP,JPN,392,81,.jp,
+111,泽西岛,Jersey,JE,JEY,832,44,.je,ISO 3166-1:2006新增
+112,约旦,Jordan,JO,JOR,400,962,.jo,the Hashemite Kingdom of Jordan
+113,哈萨克斯坦,Kazakhstan,KZ,KAZ,398,7,.kz,the Republic of Kazakhstan
+114,肯尼亚,Kenya,KE,KEN,404,254,.ke,the Republic of Kenya
+115,基里巴斯,Kiribati,KI,KIR,296,686,.ki,the Republic of Kiribati
+116,朝鲜,Korea,KP,PRK,408,850,.kp,the Democratic People's Republic of Korea
+117,韩国,Korea,KR,KOR,410,82,.kr,the Republic of Korea
+118,科威特,Kuwait,KW,KWT,414,965,.kw,the State of Kuwait
+119,吉尔吉斯斯坦,Kyrgyzstan,KG,KGZ,417,996,.kg,the Kyrgyz Republic
+120,老挝,Lao People's Democratic Republic,LA,LAO,418,856,.la,the Lao People's Democratic Republic
+121,拉脱维亚,Latvia,LV,LVA,428,371,.lv,the Republic of Latvia
+122,黎巴嫩,Lebanon,LB,LBN,422,961,.lb,the Lebanese Republic
+123,莱索托,Lesotho,LS,LSO,426,266,.ls,the Kingdom of Lesotho
+124,利比里亚,Liberia,LR,LBR,430,231,.lr,the Republic of Liberia
+125,利比亚,Libyan Arab Jamahiriya,LY,LBY,434,218,.ly,the Socialist People's Libyan Arab Jamahiriya
+126,列支敦士登,Liechtenstein,LI,LIE,438,423,.li,the Principality of Liechtenstein
+127,立陶宛,Lithuania,LT,LTU,440,370,.lt,the Republic of Lithuania
+128,卢森堡,Luxembourg,LU,LUX,442,352,.lu,the Grand Duchy of Luxembourg
+129,澳门,Macao,MO,MAC,446,853,.mo,Macao Special Administrative Region of China
+130,北马其顿,Macedonia,MK,MKD,807,389,.mk,the former Yugoslav Republic of Macedonia
+131,马达加斯加,Madagascar,MG,MDG,450,261,.mg,the Republic of Madagascar
+132,马拉维,Malawi,MW,MWI,454,265,.mw,the Republic of Malawi
+133,马来西亚,Malaysia,MY,MYS,458,60,.my,
+134,马尔代夫,Maldives,MV,MDV,462,960,.mv,the Republic of Maldives
+135,马里,Mali,ML,MLI,466,223,.ml,the Republic of Mali
+136,马耳他,Malta,MT,MLT,470,356,.mt,the Republic of Malta
+137,马绍尔群岛,Marshall Islands,MH,MHL,584,692,.mh,the Republic of the Marshall Islands
+138,马提尼克,Martinique,MQ,MTQ,474,596,.mq,
+139,毛利塔尼亚,Mauritania,MR,MRT,478,222,.mr,the Islamic Republic of Mauritania
+140,毛里求斯,Mauritius,MU,MUS,480,230,.mu,the Republic of Mauritius
+141,马约特,Mayotte,YT,MYT,175,262,.yt,
+142,墨西哥,Mexico,MX,MEX,484,52,.mx,the United Mexican States
+143,密克罗尼西亚联邦,Micronesia,FM,FSM,583,691,.fm,the Federated States of Micronesia
+144,摩尔多瓦,Moldova,MD,MDA,498,373,.md,the Republic of Moldova
+145,摩纳哥,Monaco,MC,MCO,492,377,.mc,the Principality of Monaco
+146,蒙古,Mongolia,MN,MNG,496,976,.mn,
+147,黑山,Montenegro,ME,MNE,499,382,.me,the Republic of Montenegro
+148,蒙特塞拉特,Montserrat,MS,MSR,500,1 664,.ms,
+149,摩洛哥,Morocco,MA,MAR,504,212,.ma,the Kingdom of Morocco
+150,莫桑比克,Mozambique,MZ,MOZ,508,258,.mz,the Republic of Mozambique
+151,缅甸,Myanmar,MM,MMR,104,95,.mm,the Union of Myanmar
+152,纳米比亚,Namibia,NA,NAM,516,264,.na,the Republic of Namibia
+153,瑙鲁,Nauru,NR,NRU,520,674,.nr,the Republic of Nauru
+154,尼泊尔,Nepal,NP,NPL,524,977,.np,
+155,荷兰,Netherlands,NL,NLD,528,31,.nl,the Kingdom of the Netherlands
+156,荷属安的列斯,Netherlands Antilles,AN,ANT,530,,,
+157,新喀里多尼亚,New Caledonia,NC,NCL,540,687,.nc,
+158,新西兰,New Zealand,NZ,NZL,554,64,.nz,
+159,尼加拉瓜,Nicaragua,NI,NIC,558,505,.ni,the Republic of Nicaragua
+160,尼日尔,Niger,NE,NER,562,227,.ne,the Republic of the Niger
+161,尼日利亚,Nigeria,NG,NGA,566,234,.ng,the Federal Republic of Nigeria
+162,纽埃,Niue,NU,NIU,570,683,.nu,the Republic of Niue
+163,诺福克岛,Norfolk Island,NF,NFK,574,6723,.nf,
+164,北马里亚纳,Northern Mariana Islands,MP,MNP,580,1 670,.mp,the Commonwealth of the Northern Mariana Islands
+165,挪威,Norway,NO,NOR,578,47,.no,the Kingdom of Norway
+166,阿曼,Oman,OM,OMN,512,968,.om,the Sultanate of Oman
+167,巴基斯坦,Pakistan,PK,PAK,586,92,.pk,the Islamic Republic of Pakistan
+168,帕劳,Palau,PW,PLW,585,680,.pw,the Republic of Palau
+169,巴勒斯坦,Palestinian Territory,PS,PSE,275,970,.ps,the Occupied Palestinian Territory
+170,巴拿马,Panama,PA,PAN,591,507,.pa,the Republic of Panama
+171,巴布亚新几内亚,Papua New Guinea,PG,PNG,598,675,,
+172,巴拉圭,Paraguay,PY,PRY,600,595,.py,the Republic of Paraguay
+173,秘鲁,Peru,PE,PER,604,51,.pe,the Republic of Peru
+174,菲律宾,Philippines,PH,PHL,608,63,.ph,the Republic of the Philippines
+175,皮特凯恩,Pitcairn,PN,PCN,612,64,.pn,
+176,波兰,Poland,PL,POL,616,48,.pl,the Republic of Poland
+177,葡萄牙,Portugal,PT,PRT,620,351,.pt,the Portuguese Republic
+178,波多黎各,Puerto Rico,PR,PRI,630,1 787/939,.pr,
+179,卡塔尔,Qatar,QA,QAT,634,974,.qa,the State of Qatar
+180,留尼汪,Réunion,RE,REU,638,262,.re,
+181,罗马尼亚,Romania,RO,ROU,642,40,.ro,
+182,俄罗斯联邦,Russian Federation,RU,RUS,643,7,.ru,the Russian Federation
+183,卢旺达,Rwanda,RW,RWA,646,250,.rw,the Republic of Rwanda
+184,圣赫勒拿,Saint Helena,SH,SHN,654,290,.sh,
+185,圣基茨和尼维斯,Saint Kitts and Nevis,KN,KNA,659,1 869,.kn,
+186,圣卢西亚,Saint Lucia,LC,LCA,662,1 758,.lc,
+187,圣皮埃尔和密克隆,Saint Pierre and Miquelon,PM,SPM,666,508,.pm,
+188,圣文森特和格林纳丁斯,Saint Vincent and the Grenadines,VC,VCT,670,1 784,.vc,
+189,萨摩亚,Samoa,WS,WSM,882,685,.ws,the Independent State of Samoa
+190,圣马力诺,San Marino,SM,SMR,674,378,.sm,the Republic of San Marino
+191,圣多美和普林西比,Sao Tome and Principe,ST,STP,678,239,.st,the Democratic Republic of Sao Tome and Principe
+192,沙特阿拉伯,Saudi Arabia,SA,SAU,682,966,.sa,the Kingdom of Saudi Arabia
+193,塞内加尔,Senegal,SN,SEN,686,221,.sn,the Republic of Senegal
+194,塞尔维亚,Serbia,RS,SRB,688,381,.rs,the Republic of Serbia / ISO 3166.1-2006新增
+195,塞舌尔,Seychelles,SC,SYC,690,248,.sc,the Republic of Seychelles
+196,塞拉利昂,Sierra Leone,SL,SLE,694,232,.sl,the Republic of Sierra Leone
+197,新加坡,Singapore,SG,SGP,702,65,.sg,the Republic of Singapore
+198,斯洛伐克,Slovakia,SK,SVK,703,421,.sk,the Slovak Republic
+199,斯洛文尼亚,Slovenia,SI,SVN,705,386,.si,the Republic of Slovenia
+200,所罗门群岛,Solomon Islands,SB,SLB,090,677,.sb,
+201,索马里,Somalia,SO,SOM,706,252,.so,the Somali Republic
+202,南非,South Africa,ZA,ZAF,710,27,.za,the Republic of South Africa
+203,南乔治亚岛和南桑德韦奇岛,South Georgia and the South Sandwich Islands,GS,SGS,239,500,.gs,
+204,西班牙,Spain,ES,ESP,724,34,.es,the Kingdom of Spain
+205,斯里兰卡,Sri Lanka,LK,LKA,144,94,.lk,the Democratic Socialist Republic of Sri Lanka
+206,苏丹,Sudan,SD,SDN,736,249,.sd,the Republic of the Sudan
+207,苏里南,Suriname,SR,SUR,740,597,.sr,the Republic of Suriname
+208,斯瓦尔巴岛和扬马延岛,Svalbard and Jan Mayen,SJ,SJM,744,47,.sj,
+209,斯威士兰,Swaziland,SZ,SWZ,748,268,.sz,the Kingdom of Swaziland
+210,瑞典,Sweden,SE,SWE,752,46,.se,the Kingdom of Sweden
+211,瑞士,Switzerland,CH,CHE,756,41,.ch,the Swiss Confederation
+212,叙利亚,Syrian Arab Republic,SY,SYR,760,963,.sy,the Syrian Arab Republic
+213,台湾,"Taiwan,Province of China",TW,TWN,158,886,.tw,
+214,塔吉克斯坦,Tajikistan,TJ,TJK,762,992,.tj,the Republic of Tajikistan
+215,坦桑尼亚,"Tanzania,United Republic of",TZ,TZA,834,255,.tz,the United Republic of Tanzania
+216,泰国,Thailand,TH,THA,764,66,.th,the Kingdom of Thailand
+217,东帝汶,Timor-Leste,TL,TLS,626,670,.tl,the Democratic Republic of Timor-Leste
+218,多哥,Togo,TG,TGO,768,228,.tg,the Togolese Republic
+219,托克劳,Tokelau,TK,TKL,772,690,.tk,
+220,汤加,Tonga,TO,TON,776,676,.to,the Kingdom of Tonga
+221,特立尼达和多巴哥,Trinidad and Tobago,TT,TTO,780,1 868,.tt,the Republic of Trinidad and Tobago
+222,突尼斯,Tunisia,TN,TUN,788,216,.tn,the Republic of Tunisia
+223,土耳其,Turkey,TR,TUR,792,,,the Republic of Turkey
+224,土库曼斯坦,Turkmenistan,TM,TKM,795,993,.tm,
+225,特克斯和凯科斯群岛,Turks and Caicos Islands,TC,TCA,796,1 649,.tc,
+226,图瓦卢,Tuvalu,TV,TUV,798,688,.tv,
+227,乌干达,Uganda,UG,UGA,800,256,.ug,the Republic of Uganda
+228,乌克兰,Ukraine,UA,UKR,804,380,.ua,
+229,阿联酋,United Arab Emirates,AE,ARE,784,971,.ae,the United Arab Emirates
+230,英国,United Kingdom,GB,GBR,826,44,.gb,the United Kingdom of Great Britain and Northern Ireland
+231,美国,United States,US,USA,840,1,.us,the United States of America
+232,美国本土外小岛屿,United States Minor Outlying Islands,UM,UMI,581,1 808,.um,
+233,乌拉圭,Uruguay,UY,URY,858,598,.uy,the Eastern Republic of Uruguay
+234,乌兹别克斯坦,Uzbekistan,UZ,UZB,860,998,.uz,the Republic of Uzbekistan
+235,瓦努阿图,Vanuatu,VU,VUT,548,678,.vu,the Republic of Vanuatu
+236,委内瑞拉,Venezuela,VE,VEN,862,58,.ve,the Bolivarian Republic of Venezuela
+237,越南,Viet Nam,VN,VNM,704,84,.vn,the Socialist Republic of Viet Nam
+238,英属维尔京群岛,Virgin Islands (British),VG,VGB,092,1 284,.vg,British Virgin Islands
+239,美属维尔京群岛,Virgin Islands (U.S.),VI,VIR,850,1 340,.vi,the Virgin Islands of the United States
+240,瓦利斯和富图纳,Wallis and Futuna,WF,WLF,876,681,.wf,Wallis and Futuna Islands
+241,西撒哈拉,Western Sahara,EH,ESH,732,212 28,.eh,
+242,也门,Yemen,YE,YEN,887,967,.ye,the Republic of Yemen
+243,赞比亚,Zambia,ZM,ZMB,894,260,.zm,the Republic of Zambia
+244,津巴布韦,Zimbabwe,ZW,ZWE,716,263,.zw,the Republic of Zimbabwe
