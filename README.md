@@ -49,3 +49,6 @@
 
 ## 全国2025年建成区和人口分布
 <center><img src="全国2025年建成区和人口分布/fig/上海市.png"></center>
+
+## 空间核密度分析
+<center><img src="空间核密度分析/fig/fig1.png"></center>
