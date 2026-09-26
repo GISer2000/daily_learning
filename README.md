@@ -52,3 +52,6 @@
 
 ## 空间核密度分析
 <center><img src="空间核密度分析/fig/fig1.png"></center>
+
+## 密度散点图评估模型预测性能
+<center><img src="密度散点图评估模型预测性能/fig/output.png"></center>
